@@ -33,3 +33,6 @@ yellow #f6c177
 blue #9ccfd8
 magenta #c4a7e7
 rose #ebbcba
+
+my background
+#282a36
